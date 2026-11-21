@@ -1,0 +1,9 @@
+ÁLBUM ONLINE V5 — TEMA CINDERELA
+Paleta: azul serenity, amarelo suave e dourado.
+ID do evento: cinderela-15-anos
+Cadastre exatamente esse ID no Painel Administrativo para associar o álbum ao Supabase.
+
+ATENÇÃO: o arquivo assets/moldura.png é a moldura de exemplo do original. Substitua pela moldura PNG transparente personalizada da cliente antes de publicar.
+
+Configuração Supabase original preservada. Estrutura e funções mantidas.
+Para alterar o ID ou nome definitivo da cliente, edite eventoId e evento.titulo em config.js.
